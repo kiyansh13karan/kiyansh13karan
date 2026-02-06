@@ -95,8 +95,11 @@
 ## 🌐 Connect With Me
 <p align="center">
 <a href="mailto:karannayalkannu1982@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/kiyansh13karan"><img src="https://skillicons.dev/icons?i=github" /></a>
+  &nbsp;&nbsp;&nbsp;
 <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  &nbsp;&nbsp;&nbsp;
 <a href="#"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
 
