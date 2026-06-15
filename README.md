@@ -100,9 +100,9 @@ Full-Stack Developer • AI/ML Engineer • Data Analytics Enthusiast
   &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/kiyansh13karan"><img src="https://skillicons.dev/icons?i=github" /></a>
   &nbsp;&nbsp;&nbsp;
-<a href="#"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://www.linkedin.com/in/karan-nayal-054981286/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   &nbsp;&nbsp;&nbsp;
-<a href="#"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+<a href="https://www.instagram.com/013._krnxx.___/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
 
 ---
